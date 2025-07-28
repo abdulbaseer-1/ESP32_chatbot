@@ -1,0 +1,7 @@
+ # This is the configuration file for the wake word detection system. 
+ #just a dummy file at the moment
+ {
+  "wake_word": "hijason",
+  "sensitivity": 95,
+  "language": "en-US"
+}
